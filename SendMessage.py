@@ -22,9 +22,9 @@ except socket.error, msg:
 
 while True:
 	data = sock.recv(16)
-	owm=pyowm.OWM('097066ffd32d0c0dd25fc703cfec018a')
-	acc_sid="AC28ea3e2130e49c67d2fc978034a85762"
-	auth_token="4c7180582e1f42b0c2d5890a9f447952"
+	owm=pyowm.OWM('xxxxxxxx')
+	acc_sid="xxxxxxxx"
+	auth_token="xxxxxxxxx"
 	client=TwilioRestClient(acc_sid,auth_token);
 	message=client.messages.create(body="Weather in Bangalore is  Humidity is "+str(humidity),to="+917204352825",from_="+1916740-1388")
 #	print message.sid
