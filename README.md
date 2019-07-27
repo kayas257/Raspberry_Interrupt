@@ -1,5 +1,5 @@
 # Raspberry_Interrupt
-Raspbeery PI object detection using PIR
+## Raspbeery PI object detection using PIR
 |------|           |----------|
 |      |           |          |
 |  PIR |  <----->  |Respberry |   
@@ -8,6 +8,7 @@ Raspbeery PI object detection using PIR
                     Connected to Internet
                     
                     
+## Pin connection                    
 PIR                    RaspberryPI
 Data PIN    --------->
 5V Pin      <---------
