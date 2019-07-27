@@ -7,11 +7,11 @@
 |      |           |   PI     |
 |______|           |----------|  
                     Connected to Internet
-                    ```
+                    
                     
                     
 ## Pin connection                    
 PIR                    RaspberryPI
-Data PIN    --------->
+Data PIN    --------->  
 5V Pin      <---------
 Ground Pin  <---------
