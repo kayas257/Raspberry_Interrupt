@@ -1,5 +1,5 @@
 # Raspberry_Interrupt
-## Raspbeery PI object detection using PIR
+## Raspbeery PI obstacle detection using PIR
 ```
 |------|           |----------|
 |      |           |          |
