@@ -1,9 +1,9 @@
 # Raspberry_Interrupt
-## Raspbeery PI obstacle detection using PIR
+## Raspberry PI obstacle detection using PIR
 ```
 |------|           |----------|
 |      |           |          |
-|  PIR |  <----->  |Respberry |   
+|  PIR |  ----->  |Respberry |   
 |      |           |   PI     |
 |______|           |----------|  
                     Connected to Internet
